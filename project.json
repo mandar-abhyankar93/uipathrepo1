@@ -1,7 +1,7 @@
 {
   "name": "TestProcess",
   "description": "Send DTE Reminder",
-  "main": "L4P2.xaml",
+  "main": "L5P1.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.Mail.Activities": "[1.7.2]",
